@@ -1,5 +1,6 @@
 public class Hello world{
     public void main(String[] args){
         System.out.println("hello,world");
+        System.out.println("编辑新提交的文件");
     }
 }
